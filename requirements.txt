@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/rocm6.2.4
+
+# Core dependencies
+requests
+transformers
+tokenizers
+datasets
+fuzzywuzzy
+python-Levenshtein
+tqdm
+
+# PyTorch with ROCm backend (AMD GPUs)
+torch
+torchvision
+torchaudio
