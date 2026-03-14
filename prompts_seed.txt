@@ -1,0 +1,734 @@
+What is the meaning of life?
+Explain how a rainbow works.
+Write a short poem about the sea.
+How do I cook an egg?
+Can you write a sorting algorithm in Python?
+Describe the history of Rome.
+What is a black hole?
+How does the stock market work?
+What are the benefits of reading?
+Who was Leonardo da Vinci?
+How do airplanes fly?
+What is artificial intelligence?
+Write a short story about a brave knight.
+Why is the sky blue?
+Explain the theory of relativity to a child.
+How to make a good cup of coffee?
+What is the tallest mountain in the world?
+Why do cats purr?
+How to play chess?
+What is the largest ocean?
+Explain the water cycle.
+What causes earthquakes?
+Who invented the light bulb?
+How does a computer work?
+What is photosynthesis?
+Why do we sleep?
+What are the signs of a good friend?
+How to learn a new language?
+What is the capital of Japan?
+Why is exercise important?
+What is the distance to the moon?
+How to bake chocolate chip cookies?
+Explain what gravity is.
+What are the different types of clouds?
+How do fish breathe underwater?
+What is the solar system?
+Why do leaves change color in the fall?
+Who wrote Romeo and Juliet?
+How to grow tomatoes?
+What is a volcano?
+Why do birds migrate?
+Explain how a submarine works.
+What is the longest river in the world?
+How do vaccines work?
+What is the speed of light?
+Why do stars twinkle?
+How to fold a paper airplane?
+What is the freezing point of water?
+Explain what an atom is.
+Who painted the Mona Lisa?
+What are the seven wonders of the ancient world?
+How do magnets work?
+What is a democracy?
+Why is the ocean salty?
+Explain what the internet is.
+How to ride a bicycle?
+What is the biggest animal on Earth?
+Why do we dream?
+What is a prime number?
+How to make a paper mache volcano?
+What is the human digestive system?
+Why do seasons change?
+Explain what climate change is.
+How to solve a Rubik's cube?
+What is the smallest country in the world?
+Why do dogs bark?
+What is a constellation?
+How to tie a tie?
+What are the states of matter?
+Why do people yawn?
+Explain what DNA is.
+How to draw a dog?
+What is the fastest animal?
+Why is honey sweet?
+What is a desert?
+How to make slime?
+What is the biggest planet in our solar system?
+Why do we have leap years?
+Explain what an ecosystem is.
+How to play the guitar?
+What is the ozone layer?
+Why do bees make honey?
+What is a hurricane?
+How to write a resume?
+What is the Great Wall of China?
+Why do spiders spin webs?
+Explain what evolution is.
+How to do a backflip?
+What is the tallest building in the world?
+Why is the grass green?
+What is a glacier?
+How to build a campfire?
+What is the human brain?
+Why do we hiccup?
+Explain what a food chain is.
+How to make a kite?
+What is the largest desert in the world?
+Why do mosquitoes bite?
+What is a tornado?
+How to swim?
+What is the deepest part of the ocean?
+Why do snakes shed their skin?
+Explain what a rainbow is.
+How to plant a tree?
+What is the largest continent?
+Why do we get goosebumps?
+What is a rainforest?
+How to make a origami crane?
+What is the hottest planet in our solar system?
+Why do penguins live in cold climates?
+Explain what a meteor is.
+How to juggle?
+What is the smallest bone in the human body?
+Why do we blink?
+What is a coral reef?
+How to do a handstand?
+What is the largest organ in the human body?
+Why do fireflies glow?
+Explain what a compass is.
+How to make a paper boat?
+What is the most spoken language in the world?
+Why do camels have humps?
+What is a tsunamis?
+How to do a magic trick?
+What is the closest star to Earth?
+Why do bats hang upside down?
+Explain what a black hole is.
+How to build a sandcastle?
+What is the largest bird in the world?
+Why do elephants have trunks?
+What is an aurora?
+How to make a friendship bracelet?
+What is the smallest planet in our solar system?
+Why do kangaroos have pouches?
+Explain what a satellite is.
+How to whistle?
+What is the longest bone in the human body?
+Why do chameleons change color?
+What is a geyser?
+How to do a cartwheel?
+What is the largest island in the world?
+Why do polar bears have white fur?
+Explain what a eclipse is.
+How to make a paper hat?
+What is the fastest bird in the world?
+Why do owls hoot?
+What is a rainbow?
+How to do a split?
+What is the biggest flower in the world?
+Why do frogs croak?
+Explain what a magnet is.
+How to make a friendship bracelet?
+What is the most common element in the universe?
+Why do zebras have stripes?
+What is a comet?
+How to spin a basketball on your finger?
+What is the strongest muscle in the human body?
+Why do cheetahs run so fast?
+Explain what a volcano is.
+How to juggle?
+What is the largest spider in the world?
+Why do peacocks have colorful feathers?
+What is a hurricane?
+How to do a handstand?
+What is the most poisonous animal in the world?
+Why do flamingos stand on one leg?
+Explain what a earthquake is.
+How to do a cartwheel?
+What is the longest living animal in the world?
+Why do octopuses squirt ink?
+What is a tornado?
+How to whistle?
+What is the most intelligent animal in the world?
+Why do monkeys swing from trees?
+Explain what a tsunami is.
+How to make a paper airplane?
+What is the most dangerous animal in the world?
+Why do dolphins jump out of the water?
+What is a black hole?
+How to tie a knot?
+What is the most beautiful place in the world?
+Why do sloths move so slowly?
+Explain what a glacier is.
+How to draw a cat?
+What is the weirdest animal in the world?
+Why do platypuses have bills?
+What is a constellation?
+How to play the piano?
+What is the most expensive thing in the world?
+Why do rhinos have horns?
+Explain what a meteor is.
+How to write a poem?
+What is the most famous painting in the world?
+Why do hippos spend so much time in the water?
+What is a rainbow?
+How to make a paper boat?
+What is the oldest city in the world?
+Why do giraffes have long necks?
+Explain what a compass is.
+How to do a magic trick?
+What is the deepest lake in the world?
+Why do ostriches bury their heads in the sand?
+What is a geyser?
+How to build a campfire?
+What is the most popular sport in the world?
+Why do pandas eat bamboo?
+Explain what an eclipse is.
+How to solve a math problem?
+What is the highest waterfall in the world?
+Why do koalas sleep so much?
+What is an aurora?
+How to play the guitar?
+What is the most populated country in the world?
+Why do meerkats stand on their hind legs?
+Explain what a satellite is.
+How to draw a horse?
+What is the largest stadium in the world?
+Why do bats use echolocation?
+What is a comet?
+How to learn a new language?
+What is the biggest festival in the world?
+Why do fireflies blink?
+Explain what a rainbow is.
+How to cook a steak?
+What is the most famous monument in the world?
+Why do chameleons change color?
+What is a hurricane?
+How to code a website?
+What is the most visited museum in the world?
+Why do penguins waddle?
+Explain what an earthquake is.
+How to take a good photo?
+What is the longest bridge in the world?
+Why do elephants have big ears?
+What is a tornado?
+How to make a video game?
+What is the most spoken language in the world?
+Why do polar bears live in the Arctic?
+Explain what a tsunami is.
+How to write a book?
+What is the biggest religion in the world?
+Why do snakes have forked tongues?
+What is a black hole?
+How to start a business?
+What is the most powerful currency in the world?
+Why do frogs have slimy skin?
+Explain what a glacier is.
+How to play chess?
+What is the most watched movie in the world?
+Why do sharks have so many teeth?
+What is a constellation?
+How to sing well?
+What is the most successful company in the world?
+Why do turtles have shells?
+Explain what a meteor is.
+How to dance?
+What is the fastest car in the world?
+Why do owls turn their heads so far?
+What is a rainbow?
+How to swim?
+What is the tallest building in the world?
+Why do kangaroos hop?
+Explain what a compass is.
+How to draw a face?
+What is the longest river in the world?
+Why do ostriches run so fast?
+What is a geyser?
+How to juggle?
+What is the deepest ocean in the world?
+Why do hippos open their mouths so wide?
+Explain what an eclipse is.
+How to do a backflip?
+What is the largest desert in the world?
+Why do rhinos charge?
+What is an aurora?
+How to play the piano?
+What is the biggest island in the world?
+Why do pandas have black and white spots?
+Explain what a satellite is.
+How to ride a bike?
+What is the highest mountain in the world?
+Why do meerkats live in groups?
+What is a comet?
+How to learn to play the guitar?
+What is the largest forest in the world?
+Why do bats sleep upside down?
+Explain what a rainbow is.
+How to code a mobile app?
+What is the biggest lake in the world?
+Why do fireflies light up at night?
+What is a hurricane?
+How to write a song?
+What is the largest coral reef in the world?
+Why do chameleons have long tongues?
+Explain what an earthquake is.
+How to start a podcast?
+What is the longest wall in the world?
+Why do penguins slide on their bellies?
+What is a tornado?
+How to learn a new language fast?
+What is the biggest cave in the world?
+Why do elephants spray water on themselves?
+Explain what a tsunami is.
+How to make a YouTube video?
+What is the largest waterfall in the world?
+Why do polar bears hunt seals?
+What is a black hole?
+How to start a blog?
+What is the highest building in the world?
+Why do snakes shed their skin?
+Explain what a glacier is.
+How to play basketball?
+What is the longest bridge in the world?
+Why do frogs jump?
+What is a constellation?
+How to learn to draw?
+What is the deepest canyon in the world?
+Why do sharks have a dorsal fin?
+Explain what a meteor is.
+How to write a screenplay?
+What is the biggest stadium in the world?
+Why do turtles live so long?
+What is a rainbow?
+How to make a website?
+What is the largest shopping mall in the world?
+Why do owls hunt at night?
+Explain what a compass is.
+How to take better photos?
+What is the biggest airport in the world?
+Why do kangaroos carry their young in pouches?
+What is a geyser?
+How to learn to code?
+What is the largest library in the world?
+Why do ostriches lay such big eggs?
+Explain what an eclipse is.
+How to become a better writer?
+What is the biggest train station in the world?
+Why do hippos live in Africa?
+What is an aurora?
+How to start a YouTube channel?
+What is the largest university in the world?
+Why do rhinos have thick skin?
+Explain what a satellite is.
+How to make a podcast?
+What is the biggest museum in the world?
+Why do pandas eat so much bamboo?
+What is a comet?
+How to write a novel?
+What is the largest theme park in the world?
+Why do meerkats have dark circles around their eyes?
+Explain what a rainbow is.
+How to learn a new skill?
+What is the biggest church in the world?
+Why do bats eat insects?
+What is a hurricane?
+How to become a better public speaker?
+What is the largest mosque in the world?
+Why do fireflies use their light to communicate?
+Explain what an earthquake is.
+How to write a short story?
+What is the biggest temple in the world?
+Why do chameleons have independent eyes?
+What is a tornado?
+How to learn to play the piano?
+What is the largest palace in the world?
+Why do penguins live in Antarctica?
+Explain what a tsunami is.
+How to make a short film?
+What is the biggest castle in the world?
+Why do elephants have trunks?
+What is a black hole?
+How to start a business online?
+What is the largest skyscraper in the world?
+Why do polar bears have black skin?
+Explain what a glacier is.
+How to become a better leader?
+What is the biggest hotel in the world?
+Why do snakes hiss?
+What is a constellation?
+How to learn to sing?
+What is the largest casino in the world?
+Why do frogs lay eggs in water?
+Explain what a meteor is.
+How to write a poem?
+What is the biggest zoo in the world?
+Why do sharks never stop swimming?
+What is a rainbow?
+How to make a documentary?
+What is the largest aquarium in the world?
+Why do turtles hide in their shells?
+Explain what a compass is.
+How to become a better listener?
+What is the biggest park in the world?
+Why do owls have silent flight?
+What is a geyser?
+How to learn to play the guitar?
+What is the largest stadium in the world?
+Why do kangaroos use their tails for balance?
+Explain what an eclipse is.
+How to write a song?
+What is the biggest airport in the world?
+Why do ostriches have such long legs?
+What is an aurora?
+How to start a podcast?
+What is the largest library in the world?
+Why do hippos secrete a red substance?
+Explain what a satellite is.
+How to become a better writer?
+What is the biggest train station in the world?
+Why do rhinos wallow in mud?
+What is a comet?
+How to make a YouTube video?
+What is the largest university in the world?
+Why do pandas have a false thumb?
+Explain what a rainbow is.
+How to write a book?
+What is the biggest museum in the world?
+Why do meerkats live in burrows?
+What is a hurricane?
+How to start a blog?
+What is the largest theme park in the world?
+Why do bats have such big ears?
+Explain what an earthquake is.
+How to learn a new language?
+What is the biggest church in the world?
+Why do fireflies produce light without heat?
+What is a tornado?
+How to make a website?
+What is the largest mosque in the world?
+Why do chameleons change color based on their mood?
+Explain what a tsunami is.
+How to start a business?
+What is the biggest temple in the world?
+Why do penguins huddle together?
+What is a black hole?
+How to code a website?
+What is the largest palace in the world?
+Why do elephants flap their ears?
+Explain what a glacier is.
+How to make a video game?
+What is the biggest castle in the world?
+Why do polar bears have such large paws?
+What is a constellation?
+How to learn to draw?
+What is the largest skyscraper in the world?
+Why do snakes have such flexible bodies?
+Explain what a meteor is.
+How to play chess?
+What is the biggest hotel in the world?
+Why do frogs croak so loud?
+What is a rainbow?
+How to write a screenplay?
+What is the largest casino in the world?
+Why do sharks have an incredible sense of smell?
+Explain what a compass is.
+How to take better photos?
+What is the biggest zoo in the world?
+Why do turtles live in both water and on land?
+What is a geyser?
+How to become a better public speaker?
+What is the largest aquarium in the world?
+Why do owls have such large eyes?
+Explain what an eclipse is.
+How to learn a new skill?
+What is the biggest park in the world?
+Why do kangaroos box?
+What is an aurora?
+How to become a better leader?
+What is the largest stadium in the world?
+Why do ostriches swallow stones?
+Explain what a satellite is.
+How to become a better listener?
+What is the biggest airport in the world?
+Why do hippos have their eyes and ears on top of their heads?
+What is a comet?
+How to write a short story?
+What is the largest library in the world?
+Why do rhinos have such poor eyesight?
+Explain what a rainbow is.
+How to make a short film?
+What is the biggest train station in the world?
+Why do pandas are so clumsy?
+What is a hurricane?
+How to start a business online?
+What is the largest university in the world?
+Why do meerkats are so social?
+Explain what an earthquake is.
+How to make a documentary?
+What is the biggest museum in the world?
+Why do bats sleep during the day?
+What is a tornado?
+How to write a poem?
+What is the largest theme park in the world?
+Why do fireflies are so rare?
+Explain what a tsunami is.
+How to learn to sing?
+What is the biggest church in the world?
+Why do chameleons move so slowly?
+What is a black hole?
+How to make a podcast?
+What is the largest mosque in the world?
+Why do penguins cannot fly?
+Explain what a glacier is.
+How to learn to play the piano?
+What is the biggest temple in the world?
+Why do elephants have such a good memory?
+What is a constellation?
+How to learn to play the guitar?
+What is the largest palace in the world?
+Why do polar bears are so aggressive?
+Explain what a meteor is.
+How to write a song?
+What is the biggest castle in the world?
+Why do snakes swallow their prey whole?
+What is a rainbow?
+How to start a YouTube channel?
+What is the largest skyscraper in the world?
+Why do frogs have such long tongues?
+Explain what a compass is.
+How to write a novel?
+What is the biggest hotel in the world?
+Why do sharks are so feared?
+What is a geyser?
+How to learn to code?
+What is the largest casino in the world?
+Why do turtles are so slow?
+Explain what an eclipse is.
+How to take a good photo?
+What is the biggest zoo in the world?
+Why do owls are associated with wisdom?
+What is an aurora?
+How to cook a steak?
+What is the largest aquarium in the world?
+Why do kangaroos have such powerful hind legs?
+Explain what a satellite is.
+How to dance?
+What is the biggest park in the world?
+Why do ostriches are so tall?
+What is a comet?
+How to swim?
+What is the largest stadium in the world?
+Why do hippos are so dangerous?
+Explain what a rainbow is.
+How to juggle?
+What is the biggest airport in the world?
+Why do rhinos are endangered?
+What is a hurricane?
+How to ride a bike?
+What is the largest library in the world?
+Why do pandas are black and white?
+Explain what an earthquake is.
+How to draw a face?
+What is the biggest train station in the world?
+Why do meerkats look out for each other?
+What is a tornado?
+How to do a backflip?
+What is the largest university in the world?
+Why do bats are mammals?
+Explain what a tsunami is.
+How to sing well?
+What is the biggest museum in the world?
+Why do fireflies emit light?
+What is a black hole?
+How to draw a horse?
+What is the largest theme park in the world?
+Why do chameleons catch prey with their tongues?
+Explain what a glacier is.
+How to solve a math problem?
+What is the biggest church in the world?
+Why do penguins live in colonies?
+What is a constellation?
+How to make a paper boat?
+What is the largest mosque in the world?
+Why do elephants mourn their dead?
+Explain what a meteor is.
+How to play the guitar?
+What is the biggest temple in the world?
+Why do polar bears have an incredible sense of smell?
+What is a rainbow?
+How to play the piano?
+What is the largest palace in the world?
+Why do snakes have scales?
+Explain what a compass is.
+How to build a campfire?
+What is the biggest castle in the world?
+Why do frogs have to keep their skin moist?
+What is a geyser?
+How to draw a cat?
+What is the largest skyscraper in the world?
+Why do sharks are apex predators?
+Explain what an eclipse is.
+How to tie a knot?
+What is the biggest hotel in the world?
+Why do turtles have a beak?
+What is an aurora?
+How to make a paper airplane?
+What is the largest casino in the world?
+Why do owls have different calls?
+Explain what a satellite is.
+How to whistle?
+What is the biggest zoo in the world?
+Why do kangaroos are herbivores?
+What is a comet?
+How to do a cartwheel?
+What is the largest aquarium in the world?
+Why do ostriches have such large eyes?
+Explain what a rainbow is.
+How to do a handstand?
+What is the biggest park in the world?
+Why do hippos sleep in water?
+What is a hurricane?
+How to spin a basketball on your finger?
+What is the largest stadium in the world?
+Why do rhinos use their horns for defense?
+Explain what an earthquake is.
+How to make a friendship bracelet?
+What is the biggest airport in the world?
+Why do pandas eat so much bamboo?
+What is a tornado?
+How to do a split?
+What is the largest library in the world?
+Why do meerkats have such a complex social structure?
+Explain what a tsunami is.
+How to make a paper hat?
+What is the biggest train station in the world?
+Why do bats are blind?
+What is a black hole?
+How to do a cartwheel?
+What is the largest university in the world?
+Why do fireflies are active at night?
+Explain what a glacier is.
+How to whistle?
+What is the biggest museum in the world?
+Why do chameleons sway when they walk?
+What is a constellation?
+How to make a friendship bracelet?
+What is the largest theme park in the world?
+Why do penguins have a waterproof coat?
+Explain what a meteor is.
+How to build a sandcastle?
+What is the biggest church in the world?
+Why do elephants are highly intelligent?
+What is a rainbow?
+How to do a magic trick?
+What is the largest mosque in the world?
+Why do polar bears are excellent swimmers?
+Explain what a compass is.
+How to make a paper boat?
+What is the biggest temple in the world?
+Why do snakes shed their skin in one piece?
+What is a geyser?
+How to do a handstand?
+What is the largest palace in the world?
+Why do frogs use their eyes to help them swallow?
+Explain what an eclipse is.
+How to juggle?
+What is the biggest castle in the world?
+Why do sharks are cartilaginous fish?
+What is an aurora?
+How to make a origami crane?
+What is the largest skyscraper in the world?
+Why do turtles lay their eggs on land?
+Explain what a satellite is.
+How to swim?
+What is the biggest hotel in the world?
+Why do owls cannot chew their food?
+What is a comet?
+How to make a kite?
+What is the largest casino in the world?
+Why do kangaroos are marsupials?
+Explain what a rainbow is.
+How to build a campfire?
+What is the biggest zoo in the world?
+Why do ostriches cannot fly?
+What is a hurricane?
+How to do a backflip?
+What is the largest aquarium in the world?
+Why do hippos can hold their breath for a long time?
+Explain what an earthquake is.
+How to write a resume?
+What is the biggest park in the world?
+Why do rhinos are territorial?
+What is a tornado?
+How to play the guitar?
+What is the largest stadium in the world?
+Why do pandas are native to China?
+Explain what a tsunami is.
+How to make slime?
+What is the biggest airport in the world?
+Why do meerkats are immune to some venoms?
+What is a black hole?
+How to draw a dog?
+What is the largest library in the world?
+Why do bats are the only mammals that can fly?
+Explain what a glacier is.
+How to tie a tie?
+What is the biggest train station in the world?
+Why do fireflies are beetles?
+What is a constellation?
+How to solve a Rubik's cube?
+What is the largest university in the world?
+Why do chameleons have a prehensile tail?
+Explain what a meteor is.
+How to make a paper mache volcano?
+What is the biggest museum in the world?
+Why do penguins mate for life?
+What is a rainbow?
+How to ride a bicycle?
+What is the largest theme park in the world?
+Why do elephants have such a strong sense of smell?
+Explain what a compass is.
+How to fold a paper airplane?
+What is the biggest church in the world?
+Why do polar bears have such thick blubber?
+What is a geyser?
+How to grow tomatoes?
+What is the largest mosque in the world?
+Why do snakes have no eyelids?
+Explain what an eclipse is.
+How to play chess?
+What is the biggest temple in the world?
+Why do frogs are amphibians?
+What is an aurora?
+How to bake chocolate chip cookies?
+What is the largest palace in the world?
+Why do sharks have multiple rows of teeth?
+Explain what a satellite is.
+How to learn a new language?
+What is the biggest castle in the world?
+Why do turtles are cold-blooded?
+What is a comet?
+How to cook an egg?
+What is the largest skyscraper in the world?
+Why do owls have such sharp talons?
